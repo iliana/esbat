@@ -1,0 +1,9 @@
+[package]
+name = "esbat"
+version = "0.1.0"
+authors = ["iliana destroyer of worlds <iliana@buttslol.net>"]
+edition = "2018"
+license = "CC-BY-NC-4.0"
+
+[dependencies]
+chrono = { version = "0.4", default-features = false }
