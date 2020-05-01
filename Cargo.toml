@@ -1,9 +1,13 @@
 [package]
 name = "esbat"
 version = "0.1.0"
+description = "Functions for lunar phase calculations"
 authors = ["iliana destroyer of worlds <iliana@buttslol.net>"]
-edition = "2018"
 license = "CC-BY-NC-4.0"
+repository = "https://github.com/iliana/esbat"
+keywords = ["moon", "lunar", "astronomy"]
+categories = ["date-and-time"]
+edition = "2018"
 
 [[example]]
 name = "lunarcal"
